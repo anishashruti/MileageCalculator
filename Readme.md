@@ -14,8 +14,8 @@ and just print it
 
 ## Pre-processing image
 I have taken one of the dashboard image 
-<img title="dashboard" src="">
+<img title="dashboard" src="https://github.com/anishashruti/MileageCalculator/blob/master/car_dashboard.jpg">
 
 ### First stage of preprocessing
 1. Did some grayscalling and then found ROI
-<img title="preprocess1" src="">
+<img title="preprocess1" src="https://github.com/anishashruti/MileageCalculator/blob/master/preprocess_1.PNG">
