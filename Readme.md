@@ -10,12 +10,20 @@ try to automate it.
 
 Just a mock app to get the inputs to calculate the mileage 
 and just print it
-<img title="phase 1" src="https://github.com/anishashruti/MileageCalculator/blob/master/window.PNG">
+<img title="phase 1" width="500" height="500" src="https://github.com/anishashruti/MileageCalculator/blob/master/window.PNG">
 
 ## Pre-processing image
 I have taken one of the dashboard image 
-<img title="dashboard" src="https://github.com/anishashruti/MileageCalculator/blob/master/car_dashboard.jpg">
+<img title="dashboard" width="500" height="500"  src="https://github.com/anishashruti/MileageCalculator/blob/master/car_dashboard.jpg">
 
 ### First stage of preprocessing
 1. Did some grayscalling and then found ROI
-<img title="preprocess1" src="https://github.com/anishashruti/MileageCalculator/blob/master/preprocess_1.PNG">
+<img title="preprocess1"  width="500" height="500" src="https://github.com/anishashruti/MileageCalculator/blob/master/preprocess_1.PNG">
+
+### Order of preprocessing:
+1. original image
+2. getting ROI
+3. Thresholding
+4. grayscale
+   
+<img title="preprocess2" width="500" height="500" src="https://github.com/anishashruti/MileageCalculator/blob/master/preprocess2.PNG">
