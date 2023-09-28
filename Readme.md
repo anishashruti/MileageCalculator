@@ -19,3 +19,4 @@ I have taken one of the dashboard image
 ### First stage of preprocessing
 1. Did some grayscalling and then found ROI
 <img title="preprocess1" src="">
+
